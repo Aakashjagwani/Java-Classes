@@ -1,0 +1,51 @@
+Data Structures -
+
+    int,long long, bool,char etc
+    Arrays
+    Strings
+    Vectors
+    Map
+    Stacks
+    Queues
+    Deque
+    Set
+    Heaps and Priority_Queues
+    Pair
+    Linked List
+    Graphs
+
+Algorithms -
+
+    First of all you should know ad-hoc problems, implementation.
+    Algorithm Analysis - The Big O notation, Complexity Classes
+    Recursion,Backtracking
+    Binary Search
+    Sorting Algorithms -
+        O(n^2) - Bubble Sort, Insertion Sort, Selection Sort
+        O(n log n) - Quick Sort, Heap Sort, Merge Sort
+    Brute-force
+    Greedy
+    Prefix sums and Sliding Window Algorithms
+    Dynamic Programmic -
+        LCS(longest common subsequence)
+        LIS(longest increasing subsequence)
+        Edit Distance
+        Subset-sum problem
+        0–1 Knapsack
+        Best path in a matrix
+    Graphs -
+        Representation
+        Traveresing - DFS,BFS
+        Shortest-path algorithms (Dijkstra, Bellman-Ford, Floyd-Warshall)
+        Topological Sort, Longest path in a DAG
+
+Besides this I would like you to learn some additional topics which might come handy-
+
+    Seive of Erathosthenes
+    Segmented Seive
+    Minimum Spanning Tree
+    Bitmasking
+    Standard template library of c++
+    Bipartite Graphs
+    Multi-Dimensional DP
+    Ternary Search

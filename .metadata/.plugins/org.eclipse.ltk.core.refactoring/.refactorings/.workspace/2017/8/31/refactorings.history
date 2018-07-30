@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete 9 resources" deleteContents="false" description="Delete 9 resources" element1="/hibernate-tutorial-annotations" element2="/hibernate-tutorial-entitymanager" element3="/hibernate-tutorial-envers" element4="/hibernate-tutorial-hbm" element5="/hibernate-tutorial-osgi" element6="/hibernate-tutorials" element7="/managed-jpa" element8="/unmanaged-jpa" element9="/unmanaged-native" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="9" stamp="1501776581937"/>
+</session>

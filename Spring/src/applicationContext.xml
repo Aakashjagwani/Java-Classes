@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:p="http://www.springframework.org/schema/p"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
+
+
+	<bean id="h" class="Lecture2DI.hobby"> 
+		<constructor-arg value="Pop"></constructor-arg> 
+		<constructor-arg value="football"></constructor-arg>
+		 <constructor-arg value="beaches"></constructor-arg> 
+	</bean>
+	 <bean id="oo" class="Lecture2DI.One">
+	 <property name="id"><value>13</value></property>  
+	 <property name="name"><value></value></property>  
+	   <property name="hobbies" ref="h"></property> 
+	 </bean>
+
+	<!-- <bean id="obj" class="test.Employee">
+		<property name="id">
+			<value>20</value>
+		</property>
+		<property name="name">
+			<value>Arun</value>
+		</property>
+		<property name="city">
+			<value>Ahmedabad</value>
+		</property>
+	</bean>
+ -->
+</beans>

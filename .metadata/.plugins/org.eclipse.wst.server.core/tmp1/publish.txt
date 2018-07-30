@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Thu Jul 26 08:37:53 IST 2018
+org.eclipse.jst.jee.server\:/binary\:K\:\\Classes\\Advance\ Workspace\\Spring\\WebContent\\WEB-INF\\lib\\spring-web-4.0.3.RELEASE.jar=WEB-INF/lib/spring-web-4.0.3.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:K\:\\Classes\\Advance\ Workspace\\Baby_Monitoring\\WebContent\\WEB-INF\\lib\\spring-web-4.0.3.RELEASE.jar=WEB-INF/lib/spring-web-4.0.3.RELEASE.jar

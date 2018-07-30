@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;regvo.java&apos; to &apos;Spring/src/Lecture4session&apos;&#x0D;&#x0A;- Original project: &apos;Spring&apos;&#x0D;&#x0A;- Destination element: &apos;Spring/src/Lecture4session&apos;&#x0D;&#x0A;- Original element: &apos;Lecture3SpringMVC.regvo.java&apos;" description="Copy compilation unit" destination="/src&lt;Lecture4session" element1="/src&lt;Lecture3SpringMVC{regvo.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1496303454167" units="1" version="1.0"/>
+</session>

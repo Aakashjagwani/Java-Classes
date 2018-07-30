@@ -1,0 +1,51 @@
+package com.Lecture5SpringHibernate.Controller;
+
+import java.util.List;
+
+import javax.servlet.http.HttpServletRequest;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.ModelAttribute;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.servlet.ModelAndView;
+
+import com.Lecture5SpringHibernate.regVo;
+import com.Lecture5SpringHibernate.DAO.dao;
+
+
+@org.springframework.stereotype.Controller
+public class controller {
+
+	@Autowired 
+	dao d;	
+	@RequestMapping(value="/Spring1.html",method=RequestMethod.GET)
+	public ModelAndView hello(){
+			return new ModelAndView("insert","r",new regVo());
+	}
+	
+	@RequestMapping(value="/Spring3.html",method=RequestMethod.POST)
+	public ModelAndView hello2(@ModelAttribute regVo v,HttpServletRequest req){
+		String fna=req.getParameter("fn");
+		String lna=req.getParameter("ln");
+		v.setFn(fna);
+		v.setLn(lna);
+		d.insert(v);
+		return new ModelAndView();
+	}
+	
+	@RequestMapping(value="/Spring2.html",method=RequestMethod.GET)
+	public ModelAndView search()
+	{
+		return new ModelAndView("search","s",new regVo());
+	}
+	@RequestMapping(value="/Spring4.html",method=RequestMethod.POST)
+	public ModelAndView search2(@ModelAttribute regVo v,HttpServletRequest req,Model model){
+		String fna=req.getParameter("fn");
+		v.setFn(fna);
+		List<?> l1=d.search(v);
+		System.out.println(l1.toString());
+		return new ModelAndView("welcome","l1",l1);
+	}
+}

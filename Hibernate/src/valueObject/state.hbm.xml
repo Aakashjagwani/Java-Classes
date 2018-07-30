@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+<class name="valueObject.state_vo" table="state">
+<id name="id" type="int" column="SID">
+	<generator class="increment" />
+</id>
+<property column="State" name="state" type="string" />
+<many-to-one class="valueObject.country_vo" name="v"></many-to-one>
+</class>
+</hibernate-mapping>

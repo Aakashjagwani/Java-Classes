@@ -1,0 +1,12 @@
+[
+	{
+		{
+			"sid":"1",
+			"sname":"GUJARAT"
+		},
+		{
+			"sid":"2",
+			"sname":"MAHARASTRA"
+		}
+	}
+]
