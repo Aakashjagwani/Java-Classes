@@ -87,3 +87,6 @@ java.lang.NullPointerException
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2018-07-30 23:53:30.464
 !MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2018-07-31 00:18:53.837
+!MESSAGE No repository found at http://download.eclipse.org/egit.

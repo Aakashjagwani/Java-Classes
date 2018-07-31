@@ -1,0 +1,52 @@
+package main.java;
+
+
+
+import main.java.*;
+
+public class LoginDAO {
+	public void login(login v) {
+		
+		
+		
+		
+		
+		
+		
+		Transaction tr = session.beginTransaction();
+		session.saveOrUpdate(v);
+		System.out.println("done");
+		tr.commit();
+	}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

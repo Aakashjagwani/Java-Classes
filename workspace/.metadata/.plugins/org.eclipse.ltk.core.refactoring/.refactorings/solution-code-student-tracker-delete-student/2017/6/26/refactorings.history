@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 elements to &apos;css&apos;&#x0D;&#x0A;- Original project: &apos;solution-code-student-tracker-delete-student&apos;&#x0D;&#x0A;- Destination element: &apos;css&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     add-student-style.css&#x0D;&#x0A;     style.css" description="Copy files" element1="WebContent/css/add-student-style.css" element2="WebContent/css/style.css" files="2" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1498715149241" target="/Library/WebContent/css" units="0" version="1.0"/>
+</session>

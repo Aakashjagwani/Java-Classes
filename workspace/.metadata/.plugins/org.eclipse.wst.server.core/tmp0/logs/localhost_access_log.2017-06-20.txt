@@ -1,0 +1,7 @@
+127.0.0.1 - - [20/Jun/2017:15:44:38 +0530] "GET / HTTP/1.1" 404 1081
+0:0:0:0:0:0:0:1 - - [20/Jun/2017:15:44:39 +0530] "GET /Library/ HTTP/1.1" 404 1089
+0:0:0:0:0:0:0:1 - - [20/Jun/2017:15:44:39 +0530] "GET /favicon.ico HTTP/1.1" 404 1092
+0:0:0:0:0:0:0:1 - - [20/Jun/2017:15:44:39 +0530] "GET /favicon.ico HTTP/1.1" 404 1092
+127.0.0.1 - - [20/Jun/2017:18:26:37 +0530] "GET / HTTP/1.1" 404 1081
+0:0:0:0:0:0:0:1 - - [20/Jun/2017:18:26:39 +0530] "GET /solution-code-student-tracker-delete-student/ HTTP/1.1" 200 3212
+0:0:0:0:0:0:0:1 - - [20/Jun/2017:18:26:40 +0530] "GET /solution-code-student-tracker-delete-student/css/style.css HTTP/1.1" 304 -

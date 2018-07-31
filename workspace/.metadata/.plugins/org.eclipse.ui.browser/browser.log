@@ -1,0 +1,55 @@
+
+Jun 27, 2017 19:29:17.09 NEW SESSION
+Jun 27, 2017 19:29:17.09 [Child 5388] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+Jun 29, 2017 11:27:17.55 NEW SESSION
+Jun 29, 2017 11:27:17.55 [Child 5076] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Jun 29, 2017 11:34:30.06 [GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+Jun 29, 2017 11:34:35.63 [GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+Jun 29, 2017 11:37:58.29 [Child 4672] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Jun 29, 2017 11:38:55.57 1498716535573	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+Jun 29, 2017 11:38:55.81 1498716535811	addons.update-checker	WARN	Update manifest for aushelper@mozilla.org did not contain an updates property
+Jun 29, 2017 11:38:55.86 1498716535866	addons.update-checker	WARN	Update manifest for webcompat@mozilla.org did not contain an updates property
+Jun 29, 2017 11:38:55.88 1498716535879	addons.update-checker	WARN	Update manifest for e10srollout@mozilla.org did not contain an updates property
+Jun 29, 2017 11:38:55.89 1498716535891	addons.update-checker	WARN	Update manifest for followonsearch@mozilla.com did not contain an updates property
+Jun 29, 2017 11:38:55.90 1498716535902	addons.update-checker	WARN	Update manifest for firefox@getpocket.com did not contain an updates property
+Jun 29, 2017 11:40:38.46 [GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+Jun 29, 2017 11:40:40.98 [GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+Jun 29, 2017 11:40:50.35 *************************
+Jun 29, 2017 11:40:50.35 A coding exception was thrown and uncaught in a Task.
+Jun 29, 2017 11:40:50.35 
+Jun 29, 2017 11:40:50.35 Full message: TypeError: NetworkError when attempting to fetch resource.
+Jun 29, 2017 11:40:50.35 Full stack: loadFile@resource://gre/modules/services-common/blocklist-clients.js:119:30
+Jun 29, 2017 11:40:50.35 TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Jun 29, 2017 11:40:50.35 TaskImpl@resource://gre/modules/Task.jsm:277:3
+Jun 29, 2017 11:40:50.35 asyncFunction@resource://gre/modules/Task.jsm:252:14
+Jun 29, 2017 11:40:50.35 Task_spawn@resource://gre/modules/Task.jsm:166:12
+Jun 29, 2017 11:40:50.35 loadDumpFile@resource://gre/modules/services-common/blocklist-clients.js:118:12
+Jun 29, 2017 11:40:50.35 syncCollection@resource://gre/modules/services-common/blocklist-clients.js:212:39
+Jun 29, 2017 11:40:50.35 TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+Jun 29, 2017 11:40:50.35 
+Jun 29, 2017 11:40:50.35 *************************
+Jun 29, 2017 12:00:14.93 [GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+Jun 29, 2017 12:00:17.07 [GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+Jun 29, 2017 12:00:17.09 [GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+Jun 29, 2017 14:26:35.71 [GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+Jun 29, 2017 14:26:38.67 [GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+Jun 29, 2017 14:28:31.92 [GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+Jun 29, 2017 14:28:33.83 [GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+Jun 29, 2017 14:28:33.84 [GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+Jun 29, 2017 15:39:54.19 [GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+Jun 29, 2017 15:39:56.29 [GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+Jun 29, 2017 15:39:56.31 [GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+Jun 29, 2017 15:59:11.14 [GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+Jun 29, 2017 15:59:12.89 [GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+Jun 29, 2017 15:59:12.91 [GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+Jun 29, 2017 16:07:47.03 [GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+Jun 29, 2017 16:07:49.46 [GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+Jun 29, 2017 16:15:10.15 [GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+Jun 29, 2017 16:15:12.49 [GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+Jun 29, 2017 16:15:56.05 1498733156025	Sync.ErrorHandler	ERROR	Sync encountered a login error
+Jun 29, 2017 16:27:18.00 [GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+Jun 29, 2017 16:27:20.56 [GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+Jun 29, 2017 16:27:20.57 [GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+Jun 29, 2017 16:37:21.67 [GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+Jun 29, 2017 16:37:23.90 [GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.

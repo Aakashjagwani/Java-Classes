@@ -1,0 +1,6 @@
+127.0.0.1 - - [21/Jun/2017:18:36:05 +0530] "GET / HTTP/1.1" 404 1081
+0:0:0:0:0:0:0:1 - - [21/Jun/2017:18:36:06 +0530] "GET /solution-code-student-tracker-delete-student/add-student-form.jsp HTTP/1.1" 200 1141
+0:0:0:0:0:0:0:1 - - [21/Jun/2017:18:36:06 +0530] "GET /solution-code-student-tracker-delete-student/css/style.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [21/Jun/2017:18:36:06 +0530] "GET /solution-code-student-tracker-delete-student/css/add-student-style.css HTTP/1.1" 200 566
+0:0:0:0:0:0:0:1 - - [21/Jun/2017:18:36:06 +0530] "GET /favicon.ico HTTP/1.1" 404 1092
+0:0:0:0:0:0:0:1 - - [21/Jun/2017:18:36:17 +0530] "GET /solution-code-student-tracker-delete-student/StudentControllerServlet?command=ADD&firstName=Aakashj&lastName=jav&email=kbixdb%40nhsajk.com HTTP/1.1" 200 3402

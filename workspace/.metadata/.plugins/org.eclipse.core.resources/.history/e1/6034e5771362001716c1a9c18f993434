@@ -1,0 +1,46 @@
+package main.java.DAO;
+
+import main.java.vo.login;
+
+public class loginDAO {
+	public void login(login v) {
+/*
+		SessionFactory factory= new Configuration().configure().buildSessionFactory();
+		Session session = factory.openSession();
+		Transaction tr = session.beginTransaction();
+		session.saveOrUpdate(v);
+		System.out.println("done");
+		tr.commit();
+*/	}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

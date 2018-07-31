@@ -1,0 +1,35 @@
+package com.vo;
+
+public class login {
+	
+	private int id;
+	private String pass;
+	private String firstName;
+	
+	public String getPass() {
+		return pass;
+	}
+	public void setPass(String pass) {
+		this.pass = pass;
+	}
+	public int getId() {
+		return id;
+	}
+	public void setId(int id) {
+		this.id = id;
+	}
+	public String getFirstName() {
+		return firstName;
+	}
+	public void setFirstName(String firstName) {
+		this.firstName = firstName;
+	}
+	public login() {
+		super();
+	}
+	public login(int id ,String firstName, String pass) {
+		this.firstName = firstName;
+		this.id = id;
+		this.pass = pass;
+	}
+}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+        "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping package="com.vo">
+
+    <class name="login" table="table2">
+        <id name="id" column="id">
+            <generator class="increment"/>
+        </id>
+        <property name="firstname" type="string" column="fname"/>
+        <property name="pwd" type="string" column="pwd"/>
+    </class>
+
+</hibernate-mapping>

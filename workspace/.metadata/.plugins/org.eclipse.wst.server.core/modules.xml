@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<modules>
+  <module moduleId="org.eclipse.jst.jee.server:studentap" serverId="Tomcat v9.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:hibernate" serverId="Tomcat v9.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:39spring_hibernate" serverId="Tomcat v9.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:spring_hibernate" serverId="Tomcat v9.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:solution-code-student-tracker-delete-student" serverId="Tomcat v9.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.j2ee.server:nava" serverId="Tomcat v9.0 Server at localhost (2)"/>
+  <module moduleId="org.eclipse.jst.j2ee.server:Aakashmvn" serverId="Tomcat v9.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:jspserv" serverId="Tomcat v9.0 Server at localhost (2)"/>
+  <module moduleId="org.eclipse.jst.jee.server:Library" serverId="Tomcat v9.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:studentapp" serverId="Tomcat v9.0 Server at localhost"/>
+</modules>

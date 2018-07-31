@@ -1,0 +1,11 @@
+package main.java;
+
+public class Snippet {
+	public static void main(String[] args) {
+		/nava/src/main/java/controller/LoginController.java
+		/nava/src/main/java/DAO/loginDAO.java
+		/nava/src/main/java/vo/login.java
+		/nava/src/main/java/vo/login.hbm.xml
+	}
+}
+

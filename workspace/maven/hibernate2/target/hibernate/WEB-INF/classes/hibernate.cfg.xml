@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hibernate-configuration>
+ 
+   <session-factory>
+   
+       <property name="connection.driver_class">com.mysql.jdbc.Driver</property>
+       <property name="connection.url">jdbc:mysql://localhost:3306/Hiber</property>
+       <property name="connection.username">aakash</property>
+       <property name="connection.password">aakash</property>
+ 
+       <property name="connection.pool_size">10</property>
+ 
+  	  <property name="hibernate.dialect">org.hibernate.dialect.MySQL5Dialect</property>  
+  	  
+       <property name="show_sql">true</property>
+ 
+       <property name="hbm2ddl.auto">update</property>
+ 	<property name="hibernate.current_session_context_class">
+	org.hibernate.context.internal.ThreadLocalSessionContext
+	</property>
+       <mapping class="hibernate.VO.LoginVo"/>
+ 
+   </session-factory>
+ 
+</hibernate-configuration>

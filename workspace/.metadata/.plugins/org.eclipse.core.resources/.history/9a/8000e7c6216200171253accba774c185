@@ -1,0 +1,18 @@
+package main.java;
+
+public class Snippet {
+	public static void main(String[] args) {
+		<dependency>
+			<groupId>hibernate-annotations</groupId>
+			<artifactId>hibernate-annotations</artifactId>
+			<version>3.3.0.GA</version>
+		</dependency>
+		
+		<dependency>
+			<groupId>hibernate-commons-annotations</groupId>
+			<artifactId>hibernate-commons-annotations</artifactId>
+			<version>3.0.0.GA</version>
+		</dependency>
+	}
+}
+

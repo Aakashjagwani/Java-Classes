@@ -1,0 +1,8 @@
+1498644823198	Rename type 'authorDAO'
+1498644832736	Rename type 'publisherDAO'
+1498655043495	Rename type 'r_get'
+1498655054724	Rename type 'registration'
+1498655062947	Rename type 'search'
+1498655074755	Rename type 'get'
+1498725029381	Move 'searchbook.jsp' to 'WebContent'
+1498725458331	Rename type 'searchController'
